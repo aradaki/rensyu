@@ -1,0 +1,23 @@
+.body {
+  font-family: serif;
+  font-size: 12px;
+  background: #fff;
+}
+
+.container {
+  width: 960px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.header {
+  width: 100%;
+  background: #eff5f9;
+  padding-top: 30px;
+}
+
+.logo {
+  width: 146px;
+  height: 105px;
+  margin: 0 auto;
+}
