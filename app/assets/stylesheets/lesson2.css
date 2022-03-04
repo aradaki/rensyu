@@ -21,3 +21,21 @@
   height: 105px;
   margin: 0 auto;
 }
+
+.navigation {
+  width: 960px;
+  height: 50px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.navigation li {
+  width: 191px;
+  height: 35px;
+  padding-top: 15px;
+  color: #5d5d5d;
+  float: left;
+  text-align: center;
+  border-left: 1px solid #5d5d5d;
+  list-style: none;
+}
