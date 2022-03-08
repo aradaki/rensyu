@@ -43,3 +43,14 @@
 .clear {
   clear: both;
 }
+
+.a:link {
+  text-decoratiion: none;
+  color: #5d5d5d;
+}
+
+.a:hover {
+  text-decoration: none;
+  color: #c7c7c7;
+}
+}
