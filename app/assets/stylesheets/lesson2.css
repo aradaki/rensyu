@@ -54,3 +54,20 @@
   color: #c7c7c7;
 }
 }
+
+.mainvisual {
+  width: 960px;
+  height: 250px;
+}
+
+.main {
+  width: 960px;
+  height: auto;
+  margin: 0 auto;
+}
+ .news {
+   width: 615px;
+   height: 250px;
+   margin-top: 15px;
+   float: left;
+ }
