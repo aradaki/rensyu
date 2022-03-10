@@ -71,3 +71,13 @@
    margin-top: 15px;
    float: left;
  }
+ 
+ h3 {
+   background: url("lesson2_img/headline_bg.png");
+   background-repeat: no-repeat;
+   font-size: 14px;
+   width: 179px;
+   height: 23px;
+   text-align: center;
+   padding-top: ;
+ }
