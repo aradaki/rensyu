@@ -20,3 +20,16 @@ header_top {
   width: 200px;
   height: 103px;
 }
+
+ul#navigation {
+  width: 185px;
+  height: auto;
+  color: #e2a438;
+  padding-left: 15px;
+}
+
+ul#navigation li {
+  margin-top: 30px;
+  font-size: 14px;
+  list-style: none;
+}
