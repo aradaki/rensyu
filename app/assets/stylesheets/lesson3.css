@@ -33,3 +33,17 @@ ul#navigation li {
   font-size: 14px;
   list-style: none;
 }
+
+.clear {
+  clear: both;
+}
+
+a:link {
+  text-decoration: none;
+  color: #e2a438;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ffd283;
+}
