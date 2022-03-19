@@ -59,3 +59,15 @@ a:hover {
   width: 500px;
   height: 250px;
 }
+
+#center {
+  width: 500px;
+  height: auto;
+  float: left;
+  margin-left: 30px;
+}
+
+#mainVisual {
+  width: 500px;
+  height: 250px;
+}
