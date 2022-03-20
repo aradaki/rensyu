@@ -71,3 +71,18 @@ a:hover {
   width: 500px;
   height: 250px;
 }
+
+#news {
+  width: 500px;
+  height: auto;
+  margin-top: 15px;
+}
+
+.h3 {
+  color: #fff;
+  font-size: 14px;
+  backround: #e2a438;
+  width: auto;
+  padding: 5px;
+  margin-bottom: 5px;
+}
