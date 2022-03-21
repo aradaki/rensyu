@@ -99,3 +99,16 @@ p.newsText {
   margin-left: 30px;
   float: left;
 }
+
+#footer_BG {
+  width: 100%;
+  height: 300px;
+  background: #e2a438;
+}
+
+footer {
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+  padding-top: 15px;
+}
