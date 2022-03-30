@@ -11,3 +11,9 @@
   height: 100px;
   border-top: 5px solid #065ed;
 }
+
+#container {
+  width: 960px;
+  height: auto;
+  margin: 30px auto;
+}
