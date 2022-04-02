@@ -32,3 +32,11 @@ ul#nav {
   float: right;
 }
 
+ul#nav li {
+  width: 120px;
+  height: 70px;
+  float: left;
+  list-style: none;
+  clolr: #065ed6;
+  font-size: 14px;
+}
