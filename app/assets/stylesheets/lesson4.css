@@ -40,3 +40,13 @@ ul#nav li {
   clolr: #065ed6;
   font-size: 14px;
 }
+
+ul#nav li a {
+  color: #000;
+  text-decoration: none;
+  
+}
+
+ul#nav li a:hover {
+  color: #ccc;
+}
