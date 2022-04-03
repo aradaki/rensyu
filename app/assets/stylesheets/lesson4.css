@@ -50,3 +50,7 @@ ul#nav li a {
 ul#nav li a:hover {
   color: #ccc;
 }
+
+.clear {
+  clear: both;
+}
