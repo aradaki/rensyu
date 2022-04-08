@@ -90,3 +90,16 @@ p.newsText {
   margin-top: 15px;
   border-bottom: 1px dashed #000;
 }
+
+#event1 {
+  width: 217px;
+  height: 217px;
+  float: left;
+  margin-right: 30px;
+}
+
+#event2 {
+  width: 217px;
+  height: 217px;
+  float: left;
+}
