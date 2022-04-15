@@ -22,3 +22,11 @@ header {
   float: left;
   margin-top: 30px;
 }
+
+ul#nav {
+  width: 600px;
+  height: 70px;
+  margin-top: 30px;
+  float: right;
+  color: #fff;
+}
