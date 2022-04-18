@@ -30,3 +30,12 @@ ul#nav {
   float: right;
   color: #fff;
 }
+
+ul#nav {
+  width: 120px;
+  height: 70px;
+  float: left;
+  list-style: none;
+  color: #065ed6;
+  font-size: 14px;
+}
