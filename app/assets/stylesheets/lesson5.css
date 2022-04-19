@@ -39,3 +39,13 @@ ul#nav {
   color: #065ed6;
   font-size: 14px;
 }
+
+ul#nav li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+ul#nav li a:hover {
+  color: #000;
+  background: ye;
+}
