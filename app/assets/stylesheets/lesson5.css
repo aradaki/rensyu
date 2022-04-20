@@ -49,3 +49,13 @@ ul#nav li a:hover {
   color: #000;
   background: ye;
 }
+
+.clear {
+  clear: both;
+}
+
+#mainVisual {
+  width: 960px;
+  height: 250px;
+  margin-top: 30px;
+}
