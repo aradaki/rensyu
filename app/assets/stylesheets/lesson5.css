@@ -67,3 +67,10 @@ ul#nav li a:hover {
   margin-right: 30px;
   float: left;
 }
+
+#right {
+  width: 465px;
+  height: 217px;
+  margin-top: 30px;
+  float: left;
+}
