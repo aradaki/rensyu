@@ -87,3 +87,9 @@ h3 {
   color: #000;
   border-bottom: 3px solid #000
 }
+p.newsText {
+  font-size: 12px;
+  padding-bottom: 5px;
+  margin-top: 15px;
+  border-bottom: 1px bashed #000
+}
