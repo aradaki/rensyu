@@ -99,3 +99,10 @@ p.newsText {
   height: 217px;
   margin-top: 30px;
 }
+
+.eventR {
+  width: 217px;
+  height: 217px;
+  float: left;
+  margin-right: 30px;
+}
