@@ -106,3 +106,9 @@ p.newsText {
   float: left;
   margin-right: 30px;
 }
+
+.event {
+  width: 217px;
+  height: 217px;
+  float: left;
+}
